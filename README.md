@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Boa noite/ Bom dia pessoal!
+Meu nome é Thaiana, funcionária Caixa, e estou tentando me aventurar no mundo da IA através dos aprendizados desenvolvidos através do Bootcamp Caixa em parceria com a DIO.
+Desculpe o trabalho amador, porque realmente foi meu primeiro contato prático com uma plataforma |
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Festa na Caixa;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Aproveitando que hoje a Caixa está comemorando seus 164 anos, quis criar uma imagem que representasse essa comemoração.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+seaart.ai
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi um processo de tentativa e acertos, gastei quase todos os créditos disponíveis e não fiquei satisfeita. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Gostaria de apresentar um resultado bem mais elaborado, com a música "vem pra Caixa" ao fundo, não consegui o resultado esperado. Mas acredito que eu tenha conseguido ao menos, representar a ideia.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Prometo que na próxima tentativa, o projeto fica melhor.|
